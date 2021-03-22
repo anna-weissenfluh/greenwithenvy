@@ -1,3 +1,6 @@
 .carousel-item{
     height:500px;
 }
+.last-card{
+    align-items: center;
+}
