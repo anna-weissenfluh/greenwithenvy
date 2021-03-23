@@ -1,3 +1,11 @@
 .carousel-item{
     height:500px;
 }
+
+
+
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
