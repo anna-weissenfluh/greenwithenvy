@@ -10,7 +10,7 @@
 }
 .bg-dark {
     background-color:rgb(35, 73, 35)!important;
-    }
+}
 body{
         background:#dcdcdc;    
         }
@@ -44,79 +44,79 @@ body{
             margin-bottom: 15px;
             width: 100%;
         }
-        .rating-list-left {
+ .rating-list-left {
             height: 16px;
             line-height: 29px;
             width: 10%;
         }
-        .rating-list-center {
+.rating-list-center {
             width: 80%;
         }
-        .rating-list-right {
+.rating-list-right {
             line-height: 29px;
             text-align: right;
             width: 10%;
         }
-        .restaurant-slider-pics {
+.restaurant-slider-pics {
             bottom: 0;
             font-size: 12px;
             left: 0;
             z-index: 999;
             padding: 0 10px;
         }
-        .restaurant-slider-view-all {
+.restaurant-slider-view-all {
             bottom: 15px;
             right: 15px;
             z-index: 999;
         }
-        .offer-dedicated-nav .nav-link.active,
-        .offer-dedicated-nav .nav-link:hover,
-        .offer-dedicated-nav .nav-link:focus {
+  .offer-dedicated-nav .nav-link.active,
+   .offer-dedicated-nav .nav-link:hover,
+  .offer-dedicated-nav .nav-link:focus {
             border-color: #3868fb;
             color: #3868fb;
         }
-        .offer-dedicated-nav .nav-link {
+ .offer-dedicated-nav .nav-link {
             border-bottom: 2px solid #fff;
             color: #000000;
             padding: 16px 0;
             font-weight: 600;
         }
-        .offer-dedicated-nav .nav-item {
+.offer-dedicated-nav .nav-item {
             margin: 0 37px 0 0;
         }
-        .restaurant-detailed-action-btn {
+.restaurant-detailed-action-btn {
             margin-top: 12px;
         }
-        .restaurant-detailed-header-right .btn-success {
+.restaurant-detailed-header-right .btn-success {
             border-radius: 3px;
             height: 45px;
             margin: -18px 0 18px;
             min-width: 130px;
             padding: 7px;
         }
-        .text-black {
+.text-black {
             color: #000000;
         }
-        .icon-overlap {
+.icon-overlap {
             bottom: -23px;
             font-size: 74px;
             opacity: 0.23;
             position: absolute;
             right: -32px;
         }
-        .menu-list img {
+.menu-list img {
             width: 41px;
             height: 41px;
             object-fit: cover;
         }
-        .restaurant-detailed-header-left img {
+.restaurant-detailed-header-left img {
             width: 88px;
             height: 88px;
             border-radius: 3px;
             object-fit: cover;
             box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
         }
-        .reviews-members .media .mr-3 {
+.reviews-members .media .mr-3 {
             width: 56px;
             height: 56px;
             object-fit: cover;
