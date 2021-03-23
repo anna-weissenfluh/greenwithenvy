@@ -33,12 +33,13 @@ body{
         }
  .graph-star-rating-header .star-rating {
             font-size: 17px;
-        }.progress {
+        }
+ .progress {
             background: #f2f4f8 none repeat scroll 0 0;
             border-radius: 0;
             height: 30px;
         }
-        .rating-list {
+.rating-list {
             display: inline-flex;
             margin-bottom: 15px;
             width: 100%;
