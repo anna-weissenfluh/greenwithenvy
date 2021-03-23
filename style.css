@@ -1,11 +1,15 @@
 .carousel-item{
     height:500px;
 }
-
+.logo{
+    width:155px;
+    height:80px;
+}
 
 
 
 #sticky-footer {
   flex-shrink: none;
+  background-color:rgb(35, 73, 35);
 }
 
