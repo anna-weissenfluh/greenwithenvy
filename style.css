@@ -190,6 +190,11 @@ body{
 .contact-color{
     background-color:rgb(211, 211, 211);
 }
-        
+ .padding{
+     padding-left: 0 10px;
+     padding-top: 0 10px;
+     padding-bottom: 0 10px;
+     padding-right: 0 10px;
+ }       
         
         
