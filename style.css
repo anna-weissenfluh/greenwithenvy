@@ -8,7 +8,7 @@
 #sticky-footer {
   flex-shrink: none;
 }
-.bg-dark {
+.bg-green {
     background-color:rgb(35, 73, 35)!important;
 }
 body{
@@ -69,9 +69,9 @@ body{
             right: 15px;
             z-index: 999;
         }
-  .offer-dedicated-nav .nav-link.active,
-   .offer-dedicated-nav .nav-link:hover,
-  .offer-dedicated-nav .nav-link:focus {
+.offer-dedicated-nav .nav-link.active,
+.offer-dedicated-nav .nav-link:hover,
+.offer-dedicated-nav .nav-link:focus {
             border-color: #3868fb;
             color: #3868fb;
         }
