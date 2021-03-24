@@ -2,13 +2,6 @@
     height:500px;
 }
 
-footer{
-    position: absolute;
-    bottom:0%;
-    width:100%;
-    height: 2.5 rem;
-}
-
 
 #sticky-footer {
   flex-shrink: none;
@@ -194,7 +187,7 @@ body{
     border-radius: 0;
     height: 30px;
 }
-form{
+.contact-color{
     background-color: grey;
 }
         
