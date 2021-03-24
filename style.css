@@ -2,7 +2,7 @@
     height:500px;
 }
 footer {
-    background-color: #3a272f;
+    background-color: blueviolet;
     color: #e099a4;
     padding-top: 2rem;
     }
@@ -16,7 +16,7 @@ footer {
             margin-right: auto;
             margin-left: auto;
             }
-            
+
 body{
     background:#dcdcdc;    
 }
