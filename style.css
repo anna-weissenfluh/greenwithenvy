@@ -7,11 +7,11 @@
 
 #sticky-footer {
   flex-shrink: none;
-  background-color:rgb(35, 73, 35)!important;
+  background-color:rgb(35, 73, 35);
   
 }
 .bg-green {
-    background-color:rgb(35, 73, 35)!important;
+    background-color:rgb(35, 73, 35);
 }
 body{
     background:#dcdcdc;    
@@ -119,18 +119,18 @@ body{
     box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
         }
 .reviews-members .media .mr-3 {
-            width: 56px;
-            height: 56px;
-            object-fit: cover;
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
         }
 .rounded-pill {
-            border-radius: 50rem!important;
+    border-radius: 50rem!important;
         }
 .total-like-user {
-            border: 2px solid #fff;
-            height: 34px;
-            box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
-            width: 34px;
+    border: 2px solid #fff;
+    height: 34px;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
+    width: 34px;
         }
 .total-like-user-main a {
             display: inline-block;
