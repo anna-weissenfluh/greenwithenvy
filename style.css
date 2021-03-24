@@ -7,7 +7,7 @@
 
 #sticky-footer {
   flex-shrink: none;
-  background-color:rgb(11, 39, 11);
+  background: color #063c17;
   
 }
 body{
@@ -189,6 +189,7 @@ body{
     border-radius: 0;
     height: 30px;
 }
+
         
         
         
