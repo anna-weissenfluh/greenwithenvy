@@ -1,6 +1,9 @@
 .carousel-item{
     height:500px;
 }
+.btn-color {
+    background-color: #063c17;
+}
 footer {
     background-color: #063c17;
     padding-top: 2rem;
