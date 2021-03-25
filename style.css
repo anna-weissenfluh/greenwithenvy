@@ -1,9 +1,11 @@
 .carousel-item{
     height:500px;
 }
-.btn-color {
+.btn-primary:hover {
+    color: #fff;
     background-color: #063c17;
-}
+    border-color:#043815;
+    }
 footer {
     background-color: #063c17;
     padding-top: 2rem;
