@@ -1,7 +1,11 @@
 .carousel-item{
     height:500px;
 }
-
+form{
+    border-radius: 20px;
+    border-color: rgb(112, 112, 112);
+    border-width: 5px;
+}
 .btn-primary {
     color: #fff;
     background-color: #063c17 !important;
