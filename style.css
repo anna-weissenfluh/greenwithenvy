@@ -1,15 +1,15 @@
 .carousel-item{
     height:500px;
 }
-.btn-color {
+.btn-primary {
     color: #fff;
-    background-color: #063c17;
-    border-color:#043815;
+    background-color: #063c17 !important;
+    border-color:#043815 !important;
     }
-.btn-color:hover {
+.btn-primary:hover {
     color: #fff;
-    background-color: #053113;
-    border-color:#032910;
+    background-color: #053113 !important;
+    border-color:#032910 !important;
     }
 footer {
     background-color: #063c17;
