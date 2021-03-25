@@ -2,9 +2,9 @@
     height:500px;
 }
 form{
-    border-radius: 20px;
-    border-color: rgb(112, 112, 112);
-    border-width: 5px;
+    border-radius: 20px !important;
+    border-color: rgb(112, 112, 112) !important;
+    border-width: 5px !important;
 }
 .btn-primary {
     color: #fff;
