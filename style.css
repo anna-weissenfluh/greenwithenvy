@@ -1,10 +1,6 @@
 .carousel-item{
     height:500px;
 }
-.form-container{
-    display: block;
-    text-align: center;
-}
 iframe{
     display: inline-block;
     margin-left: auto;
