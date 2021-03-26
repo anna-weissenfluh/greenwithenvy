@@ -1,14 +1,9 @@
 .carousel-item{
     height:500px;
 }
-#form{
-    height:100px;
-    width:300px;
-}
-.container{
-    border-radius: 20px;
-    border-color: black;
-    border-width: 5px;
+.form-container{
+    display: block;
+    text-align: center;
 }
 .btn-primary {
     color: #fff;
