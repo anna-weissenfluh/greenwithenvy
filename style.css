@@ -2,11 +2,13 @@
     height:500px;
 }
 #form{
+    height:100px;
+    width:300px;
+}
+.container{
     border-radius: 20px;
     border-color: black;
     border-width: 5px;
-    height:100px;
-    width:300px;
 }
 .btn-primary {
     color: #fff;
