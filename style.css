@@ -5,6 +5,12 @@
     display: block;
     text-align: center;
 }
+iframe{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
 .btn-primary {
     color: #fff;
     background-color: #063c17 !important;
