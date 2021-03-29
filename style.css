@@ -1,9 +1,6 @@
 .carousel-item {
     height: 500px;
 }
-.bg-light{
-    background-color: #063c17 !important;
-}
 
 iframe {
     display: inline-block;
