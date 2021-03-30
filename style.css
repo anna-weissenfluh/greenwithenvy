@@ -77,3 +77,7 @@ body {
     height: 2.5rem;
     /* Footer height */
 }
+.border{
+   border-width:5px;
+    border-color: #032910;
+}
