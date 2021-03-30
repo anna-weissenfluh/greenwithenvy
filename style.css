@@ -81,6 +81,9 @@ body {
    border-width:5px;
     border-color: #032910;
 }
-h1{
+.services{
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.services-container{
+    text-align:center;
 }
