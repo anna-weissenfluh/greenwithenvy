@@ -85,7 +85,7 @@ h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .services{
-    text-align:center !important;
+    text-align:center;
 }
 #services{
     width:400px; 
