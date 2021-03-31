@@ -86,10 +86,9 @@ h4{
 }
 .services{
     text-align:center;
-    width:100px;
 }
 #services{
-    width:400px; 
+    text-align: justify;
  }
 
 
