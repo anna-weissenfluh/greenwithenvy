@@ -83,10 +83,9 @@ body {
 }
 h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
-.services{
-    text-align:center;
-}
+
 .about-gwe{
     text-indent:50px;
 }
