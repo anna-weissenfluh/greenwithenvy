@@ -95,6 +95,6 @@ h4{
 img {
     max-width: 100%;
     height: auto;
-    border-style: groove;
-    border-width:5px;
+    border-style: groove !important;
+    border-width:5px !important;
   }
