@@ -95,5 +95,6 @@ h4{
 img {
     max-width: 100%;
     height: auto;
-    filter: drop-shadow(8px 8px 10px rgb(71, 71, 71));
+    border-style: groove;
+    border-width:5px;
   }
