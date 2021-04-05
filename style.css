@@ -99,4 +99,5 @@ img {
 .image-style{
     border-style:ridge;
     border-width:3px;
+    border-color:black;
 }
