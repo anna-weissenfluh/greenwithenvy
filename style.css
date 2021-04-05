@@ -96,6 +96,10 @@ img {
     max-width: 100%;
     height: auto;
   }
+  .home-about{
+    padding:10px !important;  
+  }
 .image-style{
-    padding:10px;
+    border-width:3px;
+    border-color:black;
 }
