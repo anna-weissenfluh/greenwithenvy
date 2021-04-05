@@ -97,8 +97,5 @@ img {
     height: auto;
   }
 .image-style{
-    border-style:ridge;
-    border-width:3px;
-    border-color:black;
     padding:10px;
 }
