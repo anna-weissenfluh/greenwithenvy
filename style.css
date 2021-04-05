@@ -92,6 +92,7 @@ h4{
 .mission-gwe{
     text-align: center;
 }
-.home-about{
-    padding-top:30px !important;
-}
+img {
+    max-width: 100%;
+    height: auto;
+  }
