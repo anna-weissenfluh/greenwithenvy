@@ -102,4 +102,5 @@ img {
 .image-style{
     border-width:3px;
     border-color:black;
+    border-style: initial;
 }
