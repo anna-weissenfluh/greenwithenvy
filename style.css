@@ -104,3 +104,6 @@ img {
     border-color:black;
     border-style: initial;
 }
+.about-images{
+    padding:10px !important; 
+}
