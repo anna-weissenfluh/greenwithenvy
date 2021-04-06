@@ -103,4 +103,10 @@ img {
 .about-images{
     padding:10px !important; 
 }
+.image-style{
+    border-width:5px;
+    border: black;
+    border-style: ridge;
+    border-radius: 4px;
+}
 
