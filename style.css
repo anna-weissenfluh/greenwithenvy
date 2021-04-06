@@ -109,4 +109,10 @@ img {
     border-style:solid;
     border-radius: 4px;
 }
+.image-styles{
+    border-width:5px;
+    border: #063c17;
+    border-style:solid;
+    border-radius: 4px;
+}
 
