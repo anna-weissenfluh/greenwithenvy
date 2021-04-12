@@ -124,6 +124,9 @@ img {
 .paragraph{
     background-color: #198754!important;
     text-indent:20px;
+}
+.committed{
     color: white;
+    text-align: center;
 }
 
