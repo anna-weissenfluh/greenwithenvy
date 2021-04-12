@@ -129,5 +129,9 @@ img {
     color: white;
     text-align: center;
     font-size:35px;
+} 
+.card-size{
+    height:30px;
+    width:30px;
 }
 
