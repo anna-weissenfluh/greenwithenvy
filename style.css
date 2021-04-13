@@ -104,12 +104,6 @@ img {
 .about-images{
     padding:10px !important; 
 }
-.image-style{
-    border-width:5px;
-    border: black;
-    border-style:solid;
-    border-radius: 4px;
-}
 
 .mission{
     text-shadow: #063c17;
