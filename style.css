@@ -1,3 +1,6 @@
+.carousel-item {
+    height: 100% !important;
+}
 
 iframe {
     display: inline-block;
