@@ -134,4 +134,9 @@ img {
 .card-text{
     text-align:center !important;
 }
+.first-paragraph{
+    background-color: #198754!important;
+    color:white;
+    font-size:15px;
+}
 
