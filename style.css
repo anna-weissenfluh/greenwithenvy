@@ -1,7 +1,13 @@
 .carousel-item {
     height: 100% !important;
 }
-
+.carousel-content{
+    position:absolute;
+    bottom:10%;
+    left:5%;
+    z-index:20;
+    color:white;
+}
 iframe {
     display: inline-block;
     margin-left: auto;
