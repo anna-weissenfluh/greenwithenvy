@@ -78,64 +78,77 @@ body {
     height: 2.5rem;
     /* Footer height */
 }
-.border{
-   border-width:5px;
+
+.border {
+    border-width: 5px;
     border-color: #032910;
 }
-h4{
+
+h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color: #094d1e;
 }
 
-.about-gwe{
-    color:white;
-    text-align:center;
-}
-.mission-gwe{
+.about-gwe {
+    color: white;
     text-align: center;
 }
+
+.mission-gwe {
+    text-align: center;
+}
+
 img {
     max-width: 100%;
     height: auto;
-    
-  }
-  .home-about{
-    padding:10px !important;  
-  }
-.about-images{
-    padding:10px !important; 
+
 }
 
-.mission{
+.home-about {
+    padding: 10px !important;
+}
+
+.about-images {
+    padding: 10px !important;
+}
+
+.mission {
     text-shadow: #063c17;
 }
-.before-after{
-    padding:20px !important;
+
+.before-after {
+    padding: 20px !important;
 }
-.paragraph{
-    background-color: #198754!important;
-    text-indent:20px;
-    border-radius:5px;
+
+.paragraph {
+    background-color: #198754 !important;
+    text-indent: 20px;
+    border-radius: 5px;
 }
-.committed{
+
+.committed {
     color: white;
     text-align: center;
-    font-size:20.5px;
-} 
-.card-text{
-    text-align:center !important;
+    font-size: 20.5px;
 }
-.first-paragraph{
-    background-color: #198754!important;
-    font-size:18px;
-    border-radius:5px;
+
+.card-text {
+    text-align: center !important;
+}
+
+.first-paragraph {
+    background-color: #198754 !important;
+    font-size: 18px;
+    border-radius: 5px;
 
 }
-p{
+
+p {
     color: #094d1e;
 }
-h5{
+
+h5 {
     color: #094d1e;
 }
 
@@ -144,12 +157,12 @@ h5{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align:center;
-    color:white;
-    font-size:35px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  .indent{
-      text-indent: 15px;
-  }
+}
 
+.indent {
+    text-indent: 15px;
+}
